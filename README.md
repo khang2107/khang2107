@@ -14,24 +14,18 @@
 
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+- ⚽ Community guy who loves to involve in community and sport activies .
+- 😄 I am working mainly on Appian Framework and MySQL as database at work.
+- 👨‍💻 I am an Application Software Engineer with a strong background in AWS cloud services, infrastructure as code, and scalable web application architecture.
+- 🌱 I enjoy creating automated solutions and application to make life less hassle.
+- 🤝 I love to share knowledge through workshops and webinars to empower tech communities.
+- 👯 And So Much More...
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything!
+- 💬 Feel free to ask me anything!
 - 📫 How to reach me: email me at [Gmail](mailto:khangnguyen.adelaide@gmail.com)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- ⚡ Fun fact: I love meeting new people and playing soccer!
+- 🎈 Ping Me about any Software Engineer job opportunities you find me suitable for #application, #swe, #full-stack
 
 ![Khang's github stats](https://github-readme-stats.vercel.app/api?username=khang2107&show_icons=true)
-
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
--->
