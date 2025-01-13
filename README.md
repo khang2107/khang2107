@@ -6,9 +6,9 @@
 
 ---
 
-## Hey Guys <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Helu Guys <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### I'm Khang, I am a community guy who loves tech and debugs errors
+### My name is Khang, I am a community guy who loves tech and debugs errors
 
 ---
 
@@ -21,7 +21,7 @@
 - 🤝 I love to share knowledge through workshops and webinars to empower tech communities.
 - 👯 And So Much More...
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> &nbsp;Hello world! 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> &nbsp;Hello world! 
 
 - 💬 Feel free to ask me anything!
 - 📫 How to reach me: email me at [Gmail](mailto:khangnguyen.adelaide@gmail.com)
