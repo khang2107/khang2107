@@ -1,5 +1,7 @@
 # David Khang 👨‍💻
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=khang2107)
+
 [![Linkedin Badge](https://img.shields.io/badge/-davidkhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkhang/)](https://www.linkedin.com/in/davidkhang/)
 [![GitHub followers](https://img.shields.io/github/followers/khang2107?label=Follow&style=social)](https://github.com/khang2107/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-davidkhang.au@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidkhang.au@gmail.com)](mailto:davidkhang.au@gmail.com)
