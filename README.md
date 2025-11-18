@@ -28,11 +28,10 @@
 - ⚡ Fun fact: I love meeting new people and playing soccer!
 - 🎈 Ping Me about any Software Engineer job opportunities you find me suitable for #application, #swe, #full-stack
 
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=khang2107&theme=dark&hide_border=false)
 <div align="centre">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khang2107&theme=github_dark" alt="GitHub Profile"/>
 </div>
-
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=khang2107&theme=dark&hide_border=false)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khang2107&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khang2107&theme=github_dark)
