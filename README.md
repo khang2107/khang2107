@@ -26,9 +26,11 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> &nbsp;Hello world! 
 
 - 💬 Feel free to ask me anything!
-- 📫 How to reach me: email me at [Gmail](mailto:davidkhang.au@gmail.com)
+- 📫 How to reach me: email me at [davidkhang.au@gmail.com](mailto:davidkhang.au@gmail.com)
 - ⚡ Fun fact: I love meeting new people and playing soccer!
 - 🎈 Ping Me about any Software Engineer job opportunities you find me suitable for #application, #swe, #full-stack
+
+## 🤯 Check it out
 
 ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=khang2107&theme=dark&hide_border=false)
 <div align="centre">
