@@ -33,3 +33,7 @@
 </div>
 
 ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=khang2107&theme=dark&hide_border=false)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khang2107&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khang2107&theme=github_dark)
+
