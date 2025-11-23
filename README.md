@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=khang2107)
 
 [![Linkedin Badge](https://img.shields.io/badge/-DavidKhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkhang/)](https://www.linkedin.com/in/davidkhang/)
-[![Gmail Badge](https://img.shields.io/badge/-davidkhang.au@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidkhang.au@gmail.com)](mailto:davidkhang.au@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-davidkhang.au-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidkhang.au@gmail.com)](mailto:davidkhang.au@gmail.com)
 
 ---
 
